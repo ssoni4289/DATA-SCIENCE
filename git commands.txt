@@ -1,0 +1,21 @@
+git status
+
+git init : to make repository
+
+git add --a : to keep track.
+
+git commit -m 'initial' : to commit changes.
+
+git log : to see the which user has changed the code.
+
+git log -p : which file is changed.
+
+git add (filename) : to modify the file.
+
+git commit -m 'modified' : to save changes. then type 'git log -p' to see changes.
+
+q : to get out of details.
+
+git remote add origin <paste the text of repository>
+
+git push origin master : save files to repository in github account.
