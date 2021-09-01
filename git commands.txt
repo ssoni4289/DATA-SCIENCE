@@ -1,8 +1,8 @@
-git status
+git status 
 
 git init : to make repository
 
-git add --a : to keep track.
+git add --a : to keep track of files.
 
 git commit -m 'initial' : to commit changes.
 
