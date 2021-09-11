@@ -18,4 +18,6 @@ q : to get out of details.
 
 git remote add origin <paste the text of repository>
 
+generate ssh key also for git hub account and add it to you account by going to settings.
+
 git push origin master : save files to repository in github account.
